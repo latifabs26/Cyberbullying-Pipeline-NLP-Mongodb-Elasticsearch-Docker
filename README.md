@@ -29,8 +29,8 @@ Dataset CSV → MongoDB → Prétraitement → NLP → Elasticsearch → Kibana
 ### 1. Cloner le projet et préparer l'environnement
 
 ```bash
-git clone <votre-repo>
-cd cyberbullying-analysis
+git clone https://github.com/latifabs26/bullying-analysis.git
+cd bullying-analysis
 ```
 
 ### 2. Lancer l'infrastructure avec Docker Compose
